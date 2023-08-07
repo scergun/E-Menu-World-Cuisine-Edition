@@ -89,39 +89,47 @@ img {
 }
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 820px) {
     * {
         margin: 0;
         padding: 0;
+
     }
 
 
 
     h1 {
-        margin-top: 10px;
+        margin-top: 20px;
         margin-bottom: 0;
         text-align: center;
-        line-height: 9vh;
-        font-size: 37px;
+        line-height: 5vh;
+        font-size: 38px;
+    }
+
+    .container {
+        max-width: 750px;
+        width: auto;
     }
 
     .topRow {
         margin-top: 0;
-        width: 90%;
         display: inline-flex;
     }
 
     button {
-        font-size: 15.6px;
+        width: 70px;
+        font-size: 13.6px;
     }
 
     .contents {
-        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
     }
 
     .content {
         margin: 10px;
-        width: 350px;
+
     }
 
     img {
