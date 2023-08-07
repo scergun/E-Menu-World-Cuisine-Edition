@@ -1,6 +1,6 @@
 ## E-Menu: World Cuisine Edition
 
-"E-Menu: World Cuisine Edition" is a pixel-perfect electronic menu that takes you on a delightful culinary journey through diverse global cuisines. With a charming lo-fi design, this interactive application showcases a selection of mouthwatering dishes from around the world. This project is made to test my object-oriented programming skills.
+E-Menu: World Cuisine Edition" is a pixel-perfect electronic menu that takes you on a delightful culinary journey through diverse global cuisines. With a charming lo-fi design, this interactive application showcases a selection of mouthwatering dishes from around the world. This project is made to test my object-oriented programming skills.
 
 ### Key Features
 - **Global Culinary Exploration:** Embark on a virtual gastronomic adventure with a menu featuring delectable dishes from continents across the globe.
