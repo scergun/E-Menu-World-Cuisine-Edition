@@ -15,4 +15,4 @@ Discovering the flavors of "E-Menu: World Cuisine Edition" is effortless:
 4. Delve into the rich tapestry of culinary traditions and immerse yourself in a delightful gastronomic experience.
 
 ### Showcase Screenshot
-![Imgur](https://imgur.com/I5GLGoj)
+![Imgur](https://imgur.com/I5GLGoj.png)
